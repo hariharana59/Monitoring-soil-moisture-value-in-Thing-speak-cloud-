@@ -148,7 +148,8 @@ void loop()
 # OUTPUT:
 <img width="1919" height="1079" alt="Screenshot 2026-05-11 141645" src="https://github.com/user-attachments/assets/2b508344-1b9f-46ef-84eb-3b3cc5a200a6" />
 
-<img width="1919" height="1079" alt="Screenshot 2026-05-11 141315" src="https://github.com/user-attachments/assets/827b2430-be63-40b4-9c46-83a49c034b1c" />
+<img width="1918" height="1079" alt="Screenshot 2026-05-11 145000" src="https://github.com/user-attachments/assets/c9645065-2c54-4163-91e9-a23f3bb308e5" />
+
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
